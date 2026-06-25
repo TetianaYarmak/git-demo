@@ -1,2 +1,4 @@
 This song is about
 my learning git
+I want to find
+a job of FrontEnd developer
